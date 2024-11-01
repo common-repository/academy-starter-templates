@@ -4,7 +4,7 @@ Tags: lms, course, template, addons, academy, woocommerce, tutor, learn, learner
 Requires at least: 6.3
 Tested up to: 6.3
 Requires PHP: 7.3
-Stable tag: 1.0.5
+Stable tag: 1.0.6
 License: GPLv3
 License URI: https://opensource.org/licenses/GPL-3.0
 
@@ -117,6 +117,10 @@ All of these themes have been created in such a manner that they will not slow d
 
 
 == Changelog ==
+
+= 1.0.6 - 30/10/2024 =
+* Added - WP 6.6 Compatibility
+* Fixed - Demo Import issues
 
 = 1.0.5 - 27/09/2023 =
 * Added - WP 6.3 Compatibility

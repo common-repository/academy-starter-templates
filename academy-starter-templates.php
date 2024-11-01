@@ -3,7 +3,7 @@
  * Plugin Name:		Academy Starter Templates
  * Plugin URI:		http://demo.academylms.net
  * Description:		Demo importer plugin for academy lms.
- * Version:			1.0.5
+ * Version:			1.0.6
  * Author:			Academy LMS
  * Author URI:		http://academylms.net
  * License:			GPL-3.0+
@@ -39,7 +39,7 @@ final class AcademyStarter {
 		/**
 		 * Defines CONSTANTS for Whole plugins.
 		 */
-		define( 'ACADEMY_STARTER_VERSION', '1.0.5' );
+		define( 'ACADEMY_STARTER_VERSION', '1.0.6' );
 		define( 'ACADEMY_STARTER_SETTINGS_NAME', 'academy_starter_settings' );
 		define( 'ACADEMY_STARTER_PLUGIN_FILE', __FILE__ );
 		define( 'ACADEMY_STARTER_PLUGIN_BASENAME', plugin_basename( __FILE__ ) );
